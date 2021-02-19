@@ -26,4 +26,4 @@ R.: *A Análise de Sistemas serve para solucionar problemas existentes em um pro
 
 - Qual a principal dificuldade de um projeto? (na sua opinião)
 R.: *Na minha opinião, a parte mais difícil é a execução como um todo, pois mesmo que bem planejado, ainda há
- a incerteza do êxito daquele projeto, o que torna qualquer erro ou equívoco o meio do caminho, uma chance de desistir do mesmo.*
+ a incerteza do êxito daquele projeto, o que torna qualquer erro ou equívoco o meio no caminho, uma chance de desistir do mesmo.*
