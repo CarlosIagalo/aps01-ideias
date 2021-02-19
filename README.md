@@ -2,7 +2,7 @@
  
 ## Competência: APS (ANÁLISE E PROJETO DE SISTEMAS)
 
-### Introdução e conceitos básicos de análise de sistemas e projetos
+### Introdução e conceitos básicos de análise de sistemas e projetos.
 
 - O que é projeto?
 R.: Um projeto é a intenção de se desenvolver ou realizar algo. Isso inclui organização e planejamento
